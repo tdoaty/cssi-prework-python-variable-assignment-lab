@@ -8,7 +8,7 @@
 
 You will assign a local variable named `greeting` that is equal to `"Hello World"`.
 
-You should first make sure the test suite is running correctly by running `learn`. (If it isn't, head back to the setup lesson and make sure you have the correct dependencies installed)
+You should first make sure the test suite is running correctly by running `python variable_test.py`. (If it isn't, head back to the setup lesson and make sure you have the correct dependencies installed)
 
 Upon the first run of the test suite you should see:
 
