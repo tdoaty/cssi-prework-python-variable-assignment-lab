@@ -29,5 +29,5 @@ FAILED (errors=1)
 
 ```
 
-To solve this test failure, create a local variable `greeting` in the `variable.py` file. Set `greeting` equal to the string `"Hello World"`. Run `learn` to see if you did this correctly.
+To solve this test failure, create a local variable `greeting` in the `variable.py` file. Set `greeting` equal to the string `"Hello World"`. Run `python variable_test.py` to see if you did this correctly.
 
